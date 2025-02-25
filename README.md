@@ -1,5 +1,6 @@
-## orange708
-## Hello World
+## Dhruv Kulkarni
+### Student at Northeastern University 
+- I'm a Cybersecurity and Criminal Justice Major
 <!--
 **orange708/orange708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
