@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orange708" alt="orange708" /></a> </p>
 
 - 🔭 I’m currently working on [epl-prediction engine](https://github.com/orange708/epl-prediction-engine)
 
@@ -9,7 +8,7 @@
 
 - 🤝 I’m looking for help with [FHIR-predictive](https://github.com/orange708/FHIR-predictive)
 
-- 💬 Ask me about **Java, Python and C**
+- 💬 Ask me about **Java, Python and Flutter**
 
 - 📫 How to reach me **kulkarni.dhr@northeastern.edu**
 
