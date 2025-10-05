@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, Python and Flutter**
 
-- 📫 How to reach me **kulkarni.dhr@northeastern.edu**
+- 📫 How to reach me **kulkarnidhruv02@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
